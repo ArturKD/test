@@ -1,0 +1,12 @@
+.meanings {
+    display: flex;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin: 20px 0;
+
+}
+.subTitle {
+    font-size: 3vw;
+    font-family: ui-monospace;
+    text-align: center;
+}
